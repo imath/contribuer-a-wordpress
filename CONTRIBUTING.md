@@ -160,3 +160,14 @@ Il ne vous reste plus qu'à confirmer la fusion des deux branches en cliquant su
 
 Bravo ! Votre fork est bien synchronisé avec le dépôt de WordCampParis, vous pouvez créer d'autres modifications dans une nouvelle branche comme vu plus tôt avec l'exemple de l'insertion de vos noms d'utilisateurs dans le fichier `CONTRIBUTORS.md`.
 
+## Rédiger à l'aide de logiciels
+
+Il est également possible d'utiliser des logiciels pour travailler depuis une copie locale de son dépôt Git qu'on synchronise régulièrement avec sa version hébergée sur GitHub.com.
+
+### Préalable
+
+Il sera nécessaire pour cela de commencer par installer le système de gestion de code source **Git** sur sa machine. Selon le système d'exploitation il y a différente manière de procéder :
+
+- Sur Microsoft Windows, vous pouvez opter pour le logiciel en ligne de commandes "[Git for Windows](https://gitforwindows.org/)".
+- Sur Apple macOs, vous pouvez tout simplement installer les outils de ligne de commande en tapant `git` dans un terminal.
+- ou pour tout système d'exploitation vous pouvez aussi télécharger Git depuis le site [git-scm](https://git-scm.com/download/).
