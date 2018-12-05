@@ -166,8 +166,14 @@ Il est également possible d'utiliser des logiciels pour travailler depuis une c
 
 ### Préalable
 
-Il sera nécessaire pour cela de commencer par installer le système de gestion de code source **Git** sur sa machine. Selon le système d'exploitation il y a différente manière de procéder :
+Il sera nécessaire pour cela de commencer par installer le système de gestion de code source **Git** sur sa machine. Selon le système d'exploitation il y a différentes manières de procéder, en voici quelques unes :
 
-- Sur Microsoft Windows, vous pouvez opter pour le logiciel en ligne de commandes "[Git for Windows](https://gitforwindows.org/)".
-- Sur Apple macOs, vous pouvez tout simplement installer les outils de ligne de commande en tapant `git` dans un terminal.
-- ou pour tout système d'exploitation vous pouvez aussi télécharger Git depuis le site [git-scm](https://git-scm.com/download/).
+- Sur Microsoft Windows, vous pouvez opter pour le logiciel en lignes de commande "[Git for Windows](https://gitforwindows.org/)". L'avantage de ce logiciel est de fournir une émulation bash et de pouvoir utiliser les commandes du monde Linux/Unix.
+- Sur Apple macOs, vous pouvez tout simplement installer les outils de ligne de commande en tapant `git` dans un terminal. Il est également possible d'utiliser le gestionnaire de packets "[brew](https://brew.sh/index_fr)".
+- ou pour tout système d'exploitation vous pouvez aussi directement télécharger Git depuis le site "[git-scm](https://git-scm.com/download/)".
+
+### Choix de l'éditeur de texte/code
+
+Il existe de nombreux éditeurs de texte, l'essentiel dans votre choix est d'en choisir un qui vous permet d'effectuer des recherches dans tous les fichiers d'un dossier/projet. C'est le cas de "[Sublime Text](https://www.sublimetext.com/3)", "[Atom](https://atom.io/)" ou encore "[Visual Studio Code](https://code.visualstudio.com/)".
+
+NB: si vous pensez ne pas avoir besoin d'un éditeur de code, vous pouvez également opter pour un éditeur de texte spécialisé dans l'interprétation de la syntaxe MarkDown que nous utilisons pour mettre en forme les textes de notre projet de documentation. Par exemple : "[Typora](https://typora.io/#download)" fournit une expérience très intéressante pour une écriture en MarkDown plus intuitive.
